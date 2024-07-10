@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "production": "maggieresume-ea2fd",
+    "default": "maggieresume-ea2fd"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
